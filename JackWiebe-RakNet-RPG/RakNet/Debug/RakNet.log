@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\student\documents\3rd year\sem6\networking\git\jackwiebe-raknet-rpg\raknet\main.cpp(416): warning C4018: '>': signed/unsigned mismatch
+c:\users\student\documents\3rd year\sem6\networking\git\jackwiebe-raknet-rpg\raknet\main.cpp(756): warning C4018: '>=': signed/unsigned mismatch
+c:\users\student\documents\3rd year\sem6\networking\git\jackwiebe-raknet-rpg\raknet\main.cpp(846): warning C4018: '>=': signed/unsigned mismatch
+  RakNet.vcxproj -> C:\Users\Student\Documents\3rd Year\Sem6\Networking\GIT\JackWiebe-RakNet-RPG\Debug\RakNet.exe
+  RakNet.vcxproj -> C:\Users\Student\Documents\3rd Year\Sem6\Networking\GIT\JackWiebe-RakNet-RPG\Debug\RakNet.pdb (Partial PDB)
